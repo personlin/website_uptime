@@ -24,9 +24,9 @@
     "url": "https://www.sinotech.org.tw",
     "icon": "https://favicons.githubusercontent.com/www.sinotech.org.tw",
     "slug": "sinotech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 1488,
     "timeMonth": 1488,
     "timeYear": 1488,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-08": 0
+    }
   },
   {
     "name": "Procal-tech",
@@ -43,13 +45,13 @@
     "icon": "https://favicons.githubusercontent.com/iot.procal-tech.com",
     "slug": "procal-tech",
     "status": "up",
-    "uptime": "30.08%",
-    "uptimeDay": "46.34%",
-    "uptimeWeek": "30.08%",
-    "uptimeMonth": "30.08%",
-    "uptimeYear": "30.08%",
+    "uptime": "31.46%",
+    "uptimeDay": "49.74%",
+    "uptimeWeek": "31.46%",
+    "uptimeMonth": "31.46%",
+    "uptimeYear": "31.46%",
     "time": 517,
-    "timeDay": 536,
+    "timeDay": 537,
     "timeWeek": 517,
     "timeMonth": 517,
     "timeYear": 517,
