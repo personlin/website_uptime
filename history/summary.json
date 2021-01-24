@@ -11,8 +11,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 100,
-    "timeWeek": 76,
+    "timeDay": 96,
+    "timeWeek": 82,
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 2567,
-    "timeDay": 1647,
-    "timeWeek": 2251,
-    "timeMonth": 2567,
-    "timeYear": 2567,
+    "time": 2528,
+    "timeDay": 1615,
+    "timeWeek": 2261,
+    "timeMonth": 2528,
+    "timeYear": 2528,
     "dailyMinutesDown": {
       "2021-01-08": 35
     }
@@ -44,15 +44,15 @@
     "url": "http://iot.procal-tech.com",
     "icon": "https://favicons.githubusercontent.com/iot.procal-tech.com",
     "slug": "procal-tech",
-    "status": "up",
-    "uptime": "75.75%",
-    "uptimeDay": "68.99%",
+    "status": "down",
+    "uptime": "75.87%",
+    "uptimeDay": "68.98%",
     "uptimeWeek": "64.97%",
-    "uptimeMonth": "75.75%",
-    "uptimeYear": "75.75%",
+    "uptimeMonth": "75.87%",
+    "uptimeYear": "75.87%",
     "time": 644,
-    "timeDay": 1222,
-    "timeWeek": 755,
+    "timeDay": 1218,
+    "timeWeek": 752,
     "timeMonth": 644,
     "timeYear": 644,
     "dailyMinutesDown": {
@@ -71,7 +71,7 @@
       "2021-01-12": 398,
       "2021-01-11": 479,
       "2021-01-10": 264,
-      "2021-01-09": 212
+      "2021-01-09": 189
     }
   },
   {
@@ -85,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 303,
-    "timeWeek": 355,
-    "timeMonth": 319,
-    "timeYear": 319,
+    "time": 318,
+    "timeDay": 291,
+    "timeWeek": 341,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   },
   {
@@ -103,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 339,
-    "timeDay": 302,
-    "timeWeek": 295,
-    "timeMonth": 339,
-    "timeYear": 339,
+    "time": 360,
+    "timeDay": 818,
+    "timeWeek": 378,
+    "timeMonth": 360,
+    "timeYear": 360,
     "dailyMinutesDown": {}
   },
   {
@@ -121,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 384,
-    "timeWeek": 255,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "time": 327,
+    "timeDay": 565,
+    "timeWeek": 314,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   },
   {
@@ -139,11 +139,11 @@
     "uptimeWeek": "98.89%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.12%",
-    "time": 1768,
-    "timeDay": 1673,
-    "timeWeek": 1762,
-    "timeMonth": 1768,
-    "timeYear": 1768,
+    "time": 1763,
+    "timeDay": 1665,
+    "timeWeek": 1752,
+    "timeMonth": 1763,
+    "timeYear": 1763,
     "dailyMinutesDown": {
       "2021-01-18": 111,
       "2021-01-11": 98
