@@ -44,12 +44,12 @@
     "url": "http://iot.procal-tech.com",
     "icon": "https://favicons.githubusercontent.com/iot.procal-tech.com",
     "slug": "procal-tech",
-    "status": "up",
-    "uptime": "78.98%",
-    "uptimeDay": "73.14%",
-    "uptimeWeek": "67.11%",
-    "uptimeMonth": "78.98%",
-    "uptimeYear": "78.98%",
+    "status": "down",
+    "uptime": "79.06%",
+    "uptimeDay": "73.13%",
+    "uptimeWeek": "67.20%",
+    "uptimeMonth": "79.06%",
+    "uptimeYear": "79.06%",
     "time": 646,
     "timeDay": 676,
     "timeWeek": 729,
@@ -71,7 +71,7 @@
       "2021-01-15": 505,
       "2021-01-14": 462,
       "2021-01-13": 283,
-      "2021-01-12": 86
+      "2021-01-12": 62
     }
   },
   {
