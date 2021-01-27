@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 102,
     "timeDay": 48,
-    "timeWeek": 83,
+    "timeWeek": 88,
     "timeMonth": 102,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.89%",
     "time": 2625,
     "timeDay": 780,
-    "timeWeek": 2576,
+    "timeWeek": 2712,
     "timeMonth": 2625,
     "timeYear": 2625,
     "dailyMinutesDown": {
@@ -44,12 +44,12 @@
     "url": "http://iot.procal-tech.com",
     "icon": "https://favicons.githubusercontent.com/iot.procal-tech.com",
     "slug": "procal-tech",
-    "status": "up",
-    "uptime": "79.71%",
-    "uptimeDay": "68.71%",
-    "uptimeWeek": "69.03%",
-    "uptimeMonth": "79.71%",
-    "uptimeYear": "79.71%",
+    "status": "down",
+    "uptime": "79.86%",
+    "uptimeDay": "69.98%",
+    "uptimeWeek": "69.20%",
+    "uptimeMonth": "79.86%",
+    "uptimeYear": "79.86%",
     "time": 647,
     "timeDay": 659,
     "timeWeek": 731,
@@ -70,7 +70,7 @@
       "2021-01-16": 459,
       "2021-01-15": 505,
       "2021-01-14": 462,
-      "2021-01-13": 72
+      "2021-01-13": 30
     }
   },
   {
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 302,
     "timeDay": 185,
-    "timeWeek": 239,
+    "timeWeek": 251,
     "timeMonth": 302,
     "timeYear": 302,
     "dailyMinutesDown": {}
@@ -104,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 359,
     "timeDay": 296,
-    "timeWeek": 384,
+    "timeWeek": 401,
     "timeMonth": 359,
     "timeYear": 359,
     "dailyMinutesDown": {}
@@ -122,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 312,
     "timeDay": 307,
-    "timeWeek": 291,
+    "timeWeek": 292,
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {}
@@ -133,14 +133,14 @@
     "icon": "https://favicons.githubusercontent.com/gis.geo.ncu.edu.tw",
     "slug": "gis",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "98.22%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.17%",
     "time": 1748,
     "timeDay": 1711,
-    "timeWeek": 1682,
+    "timeWeek": 1673,
     "timeMonth": 1748,
     "timeYear": 1748,
     "dailyMinutesDown": {
