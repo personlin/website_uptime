@@ -59,7 +59,7 @@
     "timeMonth": 549,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2021-07-13": 957,
+      "2021-07-13": 982,
       "2021-07-12": 1440,
       "2021-07-11": 1440,
       "2021-07-10": 1440,
@@ -205,19 +205,19 @@
     "url": "https://earthquake.personlin.com/",
     "icon": "https://favicons.githubusercontent.com/earthquake.personlin.com",
     "slug": "earthquake-information",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 252,
-    "timeWeek": 214,
-    "timeMonth": 255,
-    "timeYear": 370,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 373,
+    "timeDay": 545,
+    "timeWeek": 292,
+    "timeMonth": 274,
+    "timeYear": 373,
     "dailyMinutesDown": {
-      "2021-07-13": 0
+      "2021-07-13": 25
     }
   },
   {
