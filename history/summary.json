@@ -60,7 +60,7 @@
     "timeMonth": 565,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2021-07-27": 53,
+      "2021-07-27": 140,
       "2021-07-26": 1440,
       "2021-07-25": 1440,
       "2021-07-24": 1440,
@@ -280,9 +280,9 @@
     "url": "http://gis.geo.ncu.edu.tw",
     "icon": "https://favicons.githubusercontent.com/gis.geo.ncu.edu.tw",
     "slug": "gis",
-    "status": "up",
+    "status": "down",
     "uptime": "97.40%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "88.01%",
     "uptimeMonth": "96.75%",
     "uptimeYear": "97.40%",
@@ -292,6 +292,7 @@
     "timeMonth": 1587,
     "timeYear": 1706,
     "dailyMinutesDown": {
+      "2021-07-27": 0,
       "2021-07-24": 403,
       "2021-07-23": 806,
       "2021-07-19": 76,
