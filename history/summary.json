@@ -24,9 +24,9 @@
     "url": "https://www.sinotech.org.tw",
     "icon": "https://favicons.githubusercontent.com/www.sinotech.org.tw",
     "slug": "sinotech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.21%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.88%",
@@ -36,6 +36,7 @@
     "timeMonth": 2482,
     "timeYear": 2640,
     "dailyMinutesDown": {
+      "2021-12-18": 0,
       "2021-12-12": 257,
       "2021-12-11": 24,
       "2021-12-01": 72,
@@ -63,7 +64,7 @@
     "timeMonth": 645,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2021-12-18": 60,
+      "2021-12-18": 98,
       "2021-12-17": 1440,
       "2021-12-16": 1440,
       "2021-12-15": 1440,
