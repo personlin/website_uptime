@@ -9,7 +9,7 @@ sites:
   - name: Sinotech
     url: https://www.sinotech.org.tw
   - name: Procal-tech
-    url: http://iot.procal-tech.com
+    url: https://iot.procal-tech.com/iotportal/Login.aspx?ReturnUrl=%2fiotportal%2f
   - name: Earthquake information
     url: https://earthquake.personlin.com/
   - name: Personlin.com
