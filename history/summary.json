@@ -4,9 +4,9 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 72,
     "timeMonth": 89,
     "timeYear": 94,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Sinotech",
@@ -50,11 +52,11 @@
     "icon": "https://favicons.githubusercontent.com/iot.procal-tech.com",
     "slug": "procal-tech",
     "status": "up",
-    "uptime": "37.93%",
+    "uptime": "38.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "31.15%",
+    "uptimeYear": "31.38%",
     "time": 763,
     "timeDay": 869,
     "timeWeek": 893,
@@ -396,12 +398,12 @@
     "status": "up",
     "uptime": "96.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.20%",
+    "uptimeWeek": "98.90%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "96.07%",
     "time": 1596,
     "timeDay": 1135,
-    "timeWeek": 1443,
+    "timeWeek": 1479,
     "timeMonth": 1564,
     "timeYear": 1542,
     "dailyMinutesDown": {
