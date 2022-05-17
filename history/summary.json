@@ -51,19 +51,20 @@
     "url": "https://iot.procal-tech.com/iotportal/Login.aspx?ReturnUrl=%2fiotportal%2f",
     "icon": "https://favicons.githubusercontent.com/iot.procal-tech.com",
     "slug": "procal-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "42.17%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "40.43%",
-    "time": 775,
-    "timeDay": 1018,
-    "timeWeek": 963,
-    "timeMonth": 886,
-    "timeYear": 730,
+    "time": 736,
+    "timeDay": 1085,
+    "timeWeek": 987,
+    "timeMonth": 894,
+    "timeYear": 731,
     "dailyMinutesDown": {
-      "2022-05-16": 0,
+      "2022-05-17": 61,
+      "2022-05-16": 4,
       "2022-04-16": 109,
       "2022-04-07": 51,
       "2022-03-29": 51,
@@ -284,8 +285,7 @@
       "2021-05-21": 1440,
       "2021-05-20": 1440,
       "2021-05-19": 1440,
-      "2021-05-18": 1440,
-      "2021-05-17": 1440
+      "2021-05-18": 1440
     }
   },
   {
@@ -368,7 +368,7 @@
     "slug": "gis",
     "status": "up",
     "uptime": "96.33%",
-    "uptimeDay": "92.96%",
+    "uptimeDay": "93.17%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "96.01%",
@@ -442,8 +442,7 @@
       "2021-06-21": 77,
       "2021-06-20": 0,
       "2021-05-24": 93,
-      "2021-05-18": 106,
-      "2021-05-17": 678
+      "2021-05-18": 106
     }
   }
 ]
