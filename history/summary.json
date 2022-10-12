@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 63,
-    "timeWeek": 115,
-    "timeMonth": 113,
+    "timeDay": 131,
+    "timeWeek": 124,
+    "timeMonth": 115,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2022-04-13": 16
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 2826,
-    "timeDay": 993,
-    "timeWeek": 3965,
-    "timeMonth": 3970,
-    "timeYear": 2871,
+    "time": 2833,
+    "timeDay": 5010,
+    "timeWeek": 3893,
+    "timeMonth": 3986,
+    "timeYear": 2882,
     "dailyMinutesDown": {
       "2022-08-19": 17,
       "2022-01-07": 29,
@@ -52,16 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iot.procal-tech.com.ico",
     "slug": "procal-tech",
     "status": "up",
-    "uptime": "54.62%",
+    "uptime": "54.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.43%",
-    "time": 826,
-    "timeDay": 1073,
-    "timeWeek": 1034,
-    "timeMonth": 1048,
-    "timeYear": 902,
+    "uptimeYear": "79.52%",
+    "time": 827,
+    "timeDay": 1114,
+    "timeWeek": 1028,
+    "timeMonth": 1052,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2022-08-15": 572,
       "2022-08-14": 1440,
@@ -146,8 +146,7 @@
       "2021-10-16": 1440,
       "2021-10-15": 1440,
       "2021-10-14": 1440,
-      "2021-10-13": 1440,
-      "2021-10-12": 1440
+      "2021-10-13": 1440
     }
   },
   {
@@ -162,9 +161,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 286,
-    "timeDay": 187,
-    "timeWeek": 365,
-    "timeMonth": 342,
+    "timeDay": 207,
+    "timeWeek": 374,
+    "timeMonth": 335,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2022-08-31": 21,
@@ -188,9 +187,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "80.11%",
     "time": 326,
-    "timeDay": 5388,
-    "timeWeek": 2033,
-    "timeMonth": 805,
+    "timeDay": 5398,
+    "timeWeek": 1982,
+    "timeMonth": 806,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2022-10-11": 38,
@@ -284,9 +283,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 304,
-    "timeDay": 60,
-    "timeWeek": 331,
+    "time": 303,
+    "timeDay": 171,
+    "timeWeek": 347,
     "timeMonth": 204,
     "timeYear": 335,
     "dailyMinutesDown": {
@@ -309,14 +308,14 @@
     "slug": "gis",
     "status": "up",
     "uptime": "96.91%",
-    "uptimeDay": "89.11%",
+    "uptimeDay": "94.46%",
     "uptimeWeek": "98.44%",
     "uptimeMonth": "99.17%",
-    "uptimeYear": "99.07%",
-    "time": 1603,
-    "timeDay": 1806,
-    "timeWeek": 1772,
-    "timeMonth": 1777,
+    "uptimeYear": "99.09%",
+    "time": 1604,
+    "timeDay": 1854,
+    "timeWeek": 1789,
+    "timeMonth": 1792,
     "timeYear": 1614,
     "dailyMinutesDown": {
       "2022-10-11": 157,
@@ -357,8 +356,7 @@
       "2021-11-11": 62,
       "2021-11-08": 45,
       "2021-11-07": 4,
-      "2021-10-18": 810,
-      "2021-10-12": 99
+      "2021-10-18": 810
     }
   }
 ]
