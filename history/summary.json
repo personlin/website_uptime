@@ -84,18 +84,16 @@
     "slug": "earthquake-information",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
     "timeDay": 1078,
     "timeWeek": 432,
     "timeMonth": 236,
     "timeYear": 236,
-    "dailyMinutesDown": {
-      "2024-01-03": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Personlin.com",
@@ -120,19 +118,19 @@
     "url": "https://yibentsai.info/",
     "icon": "https://icons.duckduckgo.com/ip3/yibentsai.info.ico",
     "slug": "prof-yi-ben-tsai",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 266,
-    "timeDay": 91,
-    "timeWeek": 197,
-    "timeMonth": 180,
+    "timeDay": 129,
+    "timeWeek": 198,
+    "timeMonth": 181,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 15
     }
   },
   {
