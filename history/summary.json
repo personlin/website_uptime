@@ -82,19 +82,19 @@
     "url": "https://earthquake.personlin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/earthquake.personlin.com.ico",
     "slug": "earthquake-information",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 1561,
-    "timeWeek": 472,
-    "timeMonth": 240,
-    "timeYear": 237,
+    "time": 281,
+    "timeDay": 1078,
+    "timeWeek": 432,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 9
     }
   },
   {
@@ -120,18 +120,20 @@
     "url": "https://yibentsai.info/",
     "icon": "https://icons.duckduckgo.com/ip3/yibentsai.info.ico",
     "slug": "prof-yi-ben-tsai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 145,
-    "timeWeek": 220,
-    "timeMonth": 185,
-    "timeYear": 224,
-    "dailyMinutesDown": {}
+    "time": 266,
+    "timeDay": 91,
+    "timeWeek": 197,
+    "timeMonth": 180,
+    "timeYear": 223,
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "GIS",
