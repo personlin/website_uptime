@@ -93,19 +93,19 @@
     "url": "https://www.personlin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.personlin.com.ico",
     "slug": "personlin-com",
-    "status": "down",
+    "status": "up",
     "uptime": "93.67%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 813,
-    "timeWeek": 433,
-    "timeMonth": 344,
+    "time": 323,
+    "timeDay": 611,
+    "timeWeek": 408,
+    "timeMonth": 340,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2024-02-28": 0
+      "2024-02-28": 23
     }
   },
   {
