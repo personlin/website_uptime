@@ -50,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iot.procal-tech.com.ico",
     "slug": "procal-tech",
     "status": "up",
-    "uptime": "74.77%",
+    "uptime": "74.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -75,19 +75,19 @@
     "url": "https://earthquake.personlin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/earthquake.personlin.com.ico",
     "slug": "earthquake-information",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 209,
-    "timeWeek": 194,
-    "timeMonth": 192,
+    "timeDay": 148,
+    "timeWeek": 181,
+    "timeMonth": 188,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 15
     }
   },
   {
