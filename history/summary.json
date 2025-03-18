@@ -110,10 +110,10 @@
     "url": "https://yibentsai.info/",
     "icon": "https://icons.duckduckgo.com/ip3/yibentsai.info.ico",
     "slug": "prof-yi-ben-tsai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
@@ -121,7 +121,9 @@
     "timeWeek": 380,
     "timeMonth": 398,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-18": 1
+    }
   },
   {
     "name": "GIS",
@@ -133,14 +135,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "7.51%",
+    "uptimeYear": "7.47%",
     "time": 1609,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1759,
+    "timeYear": 1767,
     "dailyMinutesDown": {
-      "2025-03-18": 86,
+      "2025-03-18": 300,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
