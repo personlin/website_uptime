@@ -66,10 +66,10 @@
     "url": "https://earthquake.personlin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/earthquake.personlin.com.ico",
     "slug": "earthquake-information",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 229,
@@ -78,6 +78,7 @@
     "timeMonth": 216,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2025-07-24": 1,
       "2025-05-07": 18,
       "2024-07-26": 33
     }
@@ -128,7 +129,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gis.geo.ncu.edu.tw.ico",
     "slug": "gis",
     "status": "down",
-    "uptime": "67.60%",
+    "uptime": "67.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -139,7 +140,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 27,
+      "2025-07-24": 669,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
