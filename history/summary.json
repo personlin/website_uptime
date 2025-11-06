@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 81,
-    "timeWeek": 108,
+    "timeDay": 65,
+    "timeWeek": 96,
     "timeMonth": 323,
-    "timeYear": 127,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "94.11%",
     "uptimeYear": "99.50%",
     "time": 2745,
-    "timeDay": 2324,
-    "timeWeek": 2471,
-    "timeMonth": 2334,
+    "timeDay": 2119,
+    "timeWeek": 2340,
+    "timeMonth": 2347,
     "timeYear": 2557,
     "dailyMinutesDown": {
       "2025-11-03": 216,
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1103,
-    "timeDay": 1109,
-    "timeWeek": 1064,
-    "timeMonth": 1205,
-    "timeYear": 1114,
+    "time": 1112,
+    "timeDay": 5456,
+    "timeWeek": 1688,
+    "timeMonth": 1354,
+    "timeYear": 1126,
     "dailyMinutesDown": {
       "2025-03-10": 17,
       "2025-01-18": 18,
@@ -71,17 +71,16 @@
     "slug": "earthquake-information",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 256,
-    "timeDay": 236,
-    "timeWeek": 248,
-    "timeMonth": 381,
+    "timeDay": 94,
+    "timeWeek": 242,
+    "timeMonth": 387,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-11-05": 15,
       "2025-10-20": 36,
       "2025-05-07": 18
     }
@@ -97,10 +96,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 332,
-    "timeDay": 336,
-    "timeWeek": 322,
-    "timeMonth": 327,
+    "time": 331,
+    "timeDay": 281,
+    "timeWeek": 314,
+    "timeMonth": 330,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2025-03-11": 29
@@ -117,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 186,
-    "timeWeek": 230,
-    "timeMonth": 310,
-    "timeYear": 365,
+    "time": 346,
+    "timeDay": 311,
+    "timeWeek": 260,
+    "timeMonth": 304,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2025-03-18": 21
     }
@@ -132,7 +131,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gis.geo.ncu.edu.tw.ico",
     "slug": "gis",
     "status": "down",
-    "uptime": "63.58%",
+    "uptime": "63.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -143,7 +142,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 1122,
+      "2025-11-06": 25,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -506,8 +506,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   }
 ]
