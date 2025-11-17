@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 106,
-    "timeWeek": 88,
-    "timeMonth": 321,
+    "timeDay": 110,
+    "timeWeek": 89,
+    "timeMonth": 322,
     "timeYear": 126,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.11%",
     "uptimeYear": "99.50%",
-    "time": 2718,
-    "timeDay": 2210,
-    "timeWeek": 2438,
-    "timeMonth": 2378,
-    "timeYear": 2560,
+    "time": 2717,
+    "timeDay": 1855,
+    "timeWeek": 2290,
+    "timeMonth": 2360,
+    "timeYear": 2558,
     "dailyMinutesDown": {
       "2025-11-03": 216,
       "2025-11-02": 1440,
@@ -48,16 +48,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iot.procal-tech.com.ico",
     "slug": "procal-tech",
     "status": "up",
-    "uptime": "83.44%",
+    "uptime": "83.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1111,
-    "timeDay": 905,
-    "timeWeek": 1001,
-    "timeMonth": 1348,
-    "timeYear": 1126,
+    "timeDay": 1137,
+    "timeWeek": 992,
+    "timeMonth": 1346,
+    "timeYear": 1127,
     "dailyMinutesDown": {
       "2025-03-10": 17,
       "2025-01-18": 18
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 256,
-    "timeDay": 362,
-    "timeWeek": 197,
-    "timeMonth": 397,
-    "timeYear": 258,
+    "time": 257,
+    "timeDay": 489,
+    "timeWeek": 234,
+    "timeMonth": 408,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2025-10-20": 36,
       "2025-05-07": 18
@@ -95,10 +95,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 329,
+    "time": 328,
     "timeDay": 352,
-    "timeWeek": 301,
-    "timeMonth": 333,
+    "timeWeek": 302,
+    "timeMonth": 332,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2025-03-11": 29
@@ -116,10 +116,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 356,
-    "timeDay": 361,
-    "timeWeek": 813,
-    "timeMonth": 416,
-    "timeYear": 376,
+    "timeDay": 351,
+    "timeWeek": 839,
+    "timeMonth": 421,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2025-03-18": 21
     }
@@ -130,7 +130,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gis.geo.ncu.edu.tw.ico",
     "slug": "gis",
     "status": "down",
-    "uptime": "63.21%",
+    "uptime": "63.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -141,7 +141,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-16": 27,
+      "2025-11-17": 26,
+      "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
@@ -504,8 +505,7 @@
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
-      "2024-11-18": 1440,
-      "2024-11-17": 1440
+      "2024-11-18": 1440
     }
   }
 ]
