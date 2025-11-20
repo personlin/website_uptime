@@ -16,8 +16,6 @@ sites:
     url: https://www.personlin.com/
   - name: Prof. Yi-Ben Tsai
     url: https://yibentsai.info/
-  - name: GIS
-    url: http://gis.geo.ncu.edu.tw
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
