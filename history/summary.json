@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 80,
-    "timeWeek": 1324,
-    "timeMonth": 421,
-    "timeYear": 155,
-    "dailyMinutesDown": {}
+    "time": 145,
+    "timeDay": 340,
+    "timeWeek": 1251,
+    "timeMonth": 426,
+    "timeYear": 157,
+    "dailyMinutesDown": {
+      "2025-12-13": 0
+    }
   },
   {
     "name": "Sinotech",
@@ -30,7 +32,7 @@
     "uptimeYear": "99.50%",
     "time": 2652,
     "timeDay": 4996,
-    "timeWeek": 3044,
+    "timeWeek": 3116,
     "timeMonth": 2581,
     "timeYear": 2589,
     "dailyMinutesDown": {
@@ -48,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iot.procal-tech.com.ico",
     "slug": "procal-tech",
     "status": "up",
-    "uptime": "83.69%",
+    "uptime": "83.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
