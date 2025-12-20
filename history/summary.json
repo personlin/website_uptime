@@ -13,7 +13,7 @@
     "time": 145,
     "timeDay": 126,
     "timeWeek": 185,
-    "timeMonth": 393,
+    "timeMonth": 400,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2025-12-19": 18
@@ -33,7 +33,7 @@
     "time": 2668,
     "timeDay": 6344,
     "timeWeek": 5410,
-    "timeMonth": 3498,
+    "timeMonth": 3531,
     "timeYear": 2683,
     "dailyMinutesDown": {
       "2025-12-18": 40,
@@ -59,7 +59,7 @@
     "time": 1114,
     "timeDay": 1126,
     "timeWeek": 1136,
-    "timeMonth": 1043,
+    "timeMonth": 1044,
     "timeYear": 1127,
     "dailyMinutesDown": {
       "2025-12-01": 16,
@@ -81,7 +81,7 @@
     "time": 252,
     "timeDay": 267,
     "timeWeek": 288,
-    "timeMonth": 202,
+    "timeMonth": 200,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2025-10-20": 36,
@@ -93,18 +93,19 @@
     "url": "https://www.personlin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.personlin.com.ico",
     "slug": "personlin-com",
-    "status": "up",
+    "status": "down",
     "uptime": "95.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 321,
+    "time": 320,
     "timeDay": 278,
     "timeWeek": 270,
-    "timeMonth": 269,
+    "timeMonth": 270,
     "timeYear": 319,
     "dailyMinutesDown": {
+      "2025-12-20": 0,
       "2025-11-18": 110,
       "2025-03-11": 29
     }
@@ -123,7 +124,7 @@
     "time": 356,
     "timeDay": 121,
     "timeWeek": 314,
-    "timeMonth": 353,
+    "timeMonth": 356,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2025-11-18": 110,
