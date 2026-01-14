@@ -31,9 +31,9 @@
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.47%",
     "time": 2773,
-    "timeDay": 3517,
+    "timeDay": 3392,
     "timeWeek": 3802,
-    "timeMonth": 3672,
+    "timeMonth": 3633,
     "timeYear": 2773,
     "dailyMinutesDown": {
       "2026-01-12": 45,
@@ -76,9 +76,9 @@
     "url": "https://earthquake.personlin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/earthquake.personlin.com.ico",
     "slug": "earthquake-information",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -88,6 +88,7 @@
     "timeMonth": 240,
     "timeYear": 256,
     "dailyMinutesDown": {
+      "2026-01-14": 0,
       "2025-10-20": 36,
       "2025-05-07": 18
     }
