@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 199,
-    "timeWeek": 128,
-    "timeMonth": 128,
+    "timeDay": 108,
+    "timeWeek": 117,
+    "timeMonth": 129,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2025-12-19": 18
@@ -27,14 +27,14 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "97.15%",
-    "uptimeWeek": "98.19%",
+    "uptimeWeek": "98.39%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.29%",
-    "time": 3060,
-    "timeDay": 4009,
-    "timeWeek": 3904,
-    "timeMonth": 4110,
-    "timeYear": 3237,
+    "time": 3059,
+    "timeDay": 3821,
+    "timeWeek": 3335,
+    "timeMonth": 4099,
+    "timeYear": 3239,
     "dailyMinutesDown": {
       "2026-03-17": 41,
       "2026-03-16": 31,
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1107,
-    "timeDay": 1024,
-    "timeWeek": 995,
-    "timeMonth": 1002,
+    "timeDay": 952,
+    "timeWeek": 991,
+    "timeMonth": 997,
     "timeYear": 1102,
     "dailyMinutesDown": {
       "2026-01-21": 23,
@@ -117,10 +117,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 263,
-    "timeDay": 355,
-    "timeWeek": 234,
-    "timeMonth": 312,
-    "timeYear": 267,
+    "timeDay": 404,
+    "timeWeek": 241,
+    "timeMonth": 311,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2026-03-11": 20,
       "2025-10-20": 36,
@@ -139,9 +139,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 314,
-    "timeDay": 624,
-    "timeWeek": 330,
-    "timeMonth": 280,
+    "timeDay": 365,
+    "timeWeek": 339,
+    "timeMonth": 282,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2025-11-18": 110
@@ -159,13 +159,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 371,
-    "timeDay": 460,
-    "timeWeek": 257,
-    "timeMonth": 283,
+    "timeDay": 298,
+    "timeWeek": 265,
+    "timeMonth": 286,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2025-11-18": 110,
-      "2025-03-18": 21
+      "2025-11-18": 110
     }
   }
 ]
