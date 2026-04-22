@@ -24,15 +24,15 @@
     "url": "https://www.sinotech.org.tw",
     "icon": "https://icons.duckduckgo.com/ip3/www.sinotech.org.tw.ico",
     "slug": "sinotech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "94.15%",
-    "uptimeWeek": "92.97%",
+    "uptimeDay": "94.13%",
+    "uptimeWeek": "94.42%",
     "uptimeMonth": "96.17%",
-    "uptimeYear": "99.47%",
-    "time": 3249,
+    "uptimeYear": "99.48%",
+    "time": 3251,
     "timeDay": 5575,
-    "timeWeek": 4916,
+    "timeWeek": 5166,
     "timeMonth": 4965,
     "timeYear": 3472,
     "dailyMinutesDown": {
@@ -93,8 +93,7 @@
       "2026-01-19": 31,
       "2026-01-17": 21,
       "2026-01-12": 45,
-      "2026-01-06": 15,
-      "2026-01-03": 37
+      "2026-01-06": 15
     }
   },
   {
@@ -103,7 +102,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iot.procal-tech.com.ico",
     "slug": "procal-tech",
     "status": "up",
-    "uptime": "84.79%",
+    "uptime": "84.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
