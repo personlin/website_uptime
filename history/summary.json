@@ -4,20 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 305,
-    "timeWeek": 108,
-    "timeMonth": 87,
-    "timeYear": 168,
+    "timeDay": 181,
+    "timeWeek": 101,
+    "timeMonth": 86,
+    "timeYear": 167,
     "dailyMinutesDown": {
       "2025-12-19": 18,
-      "2026-06-14": 5
+      "2026-06-14": 7
     }
   },
   {
@@ -25,17 +25,17 @@
     "url": "https://www.sinotech.org.tw",
     "icon": "https://icons.duckduckgo.com/ip3/www.sinotech.org.tw.ico",
     "slug": "sinotech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "56.95%",
-    "uptimeWeek": "67.05%",
+    "uptimeDay": "56.96%",
+    "uptimeWeek": "67.02%",
     "uptimeMonth": "89.02%",
     "uptimeYear": "98.88%",
-    "time": 3719,
-    "timeDay": 5755,
-    "timeWeek": 5240,
-    "timeMonth": 5097,
-    "timeYear": 3796,
+    "time": 3725,
+    "timeDay": 5793,
+    "timeWeek": 5260,
+    "timeMonth": 5108,
+    "timeYear": 3799,
     "dailyMinutesDown": {
       "2026-04-18": 159,
       "2026-04-19": 132,
@@ -66,7 +66,7 @@
       "2026-06-11": 441,
       "2026-06-12": 376,
       "2026-06-13": 727,
-      "2026-06-14": 595
+      "2026-06-14": 597
     }
   },
   {
