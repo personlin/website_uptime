@@ -26,15 +26,15 @@
     "slug": "sinotech",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "90.50%",
+    "uptimeDay": "89.18%",
     "uptimeWeek": "82.98%",
-    "uptimeMonth": "86.91%",
+    "uptimeMonth": "86.86%",
     "uptimeYear": "98.75%",
-    "time": 3644,
+    "time": 3646,
     "timeDay": 4393,
     "timeWeek": 5790,
     "timeMonth": 5235,
-    "timeYear": 3865,
+    "timeYear": 3867,
     "dailyMinutesDown": {
       "2026-04-21": 20,
       "2026-04-22": 93,
@@ -68,7 +68,7 @@
       "2026-06-17": 52,
       "2026-06-18": 120,
       "2026-06-19": 21,
-      "2026-06-20": 116
+      "2026-06-20": 139
     }
   },
   {
