@@ -26,10 +26,10 @@
     "slug": "sinotech",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "88.71%",
-    "uptimeWeek": "97.10%",
-    "uptimeMonth": "85.07%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "83.71%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "84.91%",
+    "uptimeYear": "98.63%",
     "time": 3735,
     "timeDay": 3972,
     "timeWeek": 4846,
@@ -71,7 +71,8 @@
       "2026-06-27": 22,
       "2026-06-28": 22,
       "2026-06-30": 86,
-      "2026-07-01": 162
+      "2026-07-01": 178,
+      "2026-07-02": 57
     }
   },
   {
