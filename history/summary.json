@@ -12,8 +12,8 @@
     "uptimeYear": "99.98%",
     "time": 151,
     "timeDay": 92,
-    "timeWeek": 80,
-    "timeMonth": 91,
+    "timeWeek": 75,
+    "timeMonth": 92,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2025-12-19": 18,
@@ -27,17 +27,17 @@
     "slug": "sinotech",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "94.60%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "94.62%",
     "uptimeMonth": "96.75%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.89%",
     "time": 3806,
     "timeDay": 3208,
-    "timeWeek": 3923,
-    "timeMonth": 3717,
+    "timeWeek": 3841,
+    "timeMonth": 3671,
     "timeYear": 4006,
     "dailyMinutesDown": {
-      "2026-06-11": 77,
+      "2026-06-11": 148,
       "2026-06-12": 376,
       "2026-06-13": 727,
       "2026-06-14": 595,
@@ -79,7 +79,7 @@
       "2026-08-04": 26,
       "2026-08-05": 127,
       "2026-08-06": 89,
-      "2026-08-07": 33
+      "2026-08-07": 31
     }
   },
   {
@@ -95,8 +95,8 @@
     "uptimeYear": "99.98%",
     "time": 1119,
     "timeDay": 911,
-    "timeWeek": 3005,
-    "timeMonth": 1490,
+    "timeWeek": 899,
+    "timeMonth": 1501,
     "timeYear": 1115,
     "dailyMinutesDown": {
       "2025-12-01": 16,
@@ -119,8 +119,8 @@
     "uptimeYear": "99.95%",
     "time": 328,
     "timeDay": 451,
-    "timeWeek": 545,
-    "timeMonth": 469,
+    "timeWeek": 516,
+    "timeMonth": 464,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2025-10-20": 36,
@@ -145,7 +145,7 @@
     "time": 311,
     "timeDay": 290,
     "timeWeek": 255,
-    "timeMonth": 269,
+    "timeMonth": 267,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2025-11-18": 110,
@@ -165,8 +165,8 @@
     "uptimeYear": "99.98%",
     "time": 390,
     "timeDay": 232,
-    "timeWeek": 355,
-    "timeMonth": 435,
+    "timeWeek": 359,
+    "timeMonth": 431,
     "timeYear": 387,
     "dailyMinutesDown": {
       "2025-11-18": 110
