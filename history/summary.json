@@ -27,14 +27,14 @@
     "url": "https://www.sinotech.org.tw",
     "icon": "https://icons.duckduckgo.com/ip3/www.sinotech.org.tw.ico",
     "slug": "sinotech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.85%",
     "uptimeYear": "99.06%",
-    "time": 3831,
-    "timeDay": 4467,
+    "time": 3829,
+    "timeDay": 3408,
     "timeWeek": 3773,
     "timeMonth": 3776,
     "timeYear": 4054,
@@ -88,7 +88,7 @@
       "2026-08-14": 24,
       "2026-08-19": 17,
       "2026-08-20": 18,
-      "2026-09-07": 3
+      "2026-09-07": 0
     }
   },
   {
