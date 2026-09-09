@@ -27,19 +27,19 @@
     "url": "https://www.sinotech.org.tw",
     "icon": "https://icons.duckduckgo.com/ip3/www.sinotech.org.tw.ico",
     "slug": "sinotech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.23%",
-    "uptimeYear": "99.04%",
-    "time": 3798,
-    "timeDay": 2755,
+    "uptimeYear": "99.06%",
+    "time": 3795,
+    "timeDay": 2486,
     "timeWeek": 3674,
     "timeMonth": 3685,
     "timeYear": 4044,
     "dailyMinutesDown": {
-      "2026-06-14": 588,
+      "2026-06-14": 493,
       "2026-06-15": 356,
       "2026-06-16": 380,
       "2026-06-17": 52,
@@ -87,7 +87,8 @@
       "2026-08-13": 82,
       "2026-08-14": 24,
       "2026-08-19": 17,
-      "2026-08-20": 18
+      "2026-08-20": 18,
+      "2026-09-09": 0
     }
   },
   {
@@ -97,9 +98,9 @@
     "slug": "procal-tech",
     "status": "up",
     "uptime": "85.84%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.96%",
     "time": 1190,
     "timeDay": 1209,
@@ -116,8 +117,7 @@
       "2026-08-11": 16,
       "2026-08-18": 18,
       "2026-08-20": 17,
-      "2026-09-08": 17,
-      "2026-09-09": 2
+      "2026-09-08": 17
     }
   },
   {
