@@ -31,12 +31,12 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.43%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.06%",
     "time": 3801,
-    "timeDay": 3011,
-    "timeWeek": 3411,
-    "timeMonth": 3582,
+    "timeDay": 2157,
+    "timeWeek": 3346,
+    "timeMonth": 3548,
     "timeYear": 4046,
     "dailyMinutesDown": {
       "2026-06-14": 493,
@@ -96,15 +96,15 @@
     "url": "https://iot.procal-tech.com/iotportal/Login.aspx?ReturnUrl=%2fiotportal%2f",
     "icon": "https://icons.duckduckgo.com/ip3/iot.procal-tech.com.ico",
     "slug": "procal-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "85.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.96%",
     "time": 1189,
-    "timeDay": 877,
-    "timeWeek": 1023,
+    "timeDay": 782,
+    "timeWeek": 1014,
     "timeMonth": 1003,
     "timeYear": 1229,
     "dailyMinutesDown": {
@@ -117,7 +117,8 @@
       "2026-08-11": 16,
       "2026-08-18": 18,
       "2026-08-20": 17,
-      "2026-09-08": 17
+      "2026-09-08": 17,
+      "2026-09-12": 0
     }
   },
   {
