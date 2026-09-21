@@ -173,20 +173,20 @@
     "url": "https://yibentsai.info/",
     "icon": "https://icons.duckduckgo.com/ip3/yibentsai.info.ico",
     "slug": "prof-yi-ben-tsai",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 448,
-    "timeDay": 14431,
-    "timeWeek": 4355,
-    "timeMonth": 1306,
-    "timeYear": 451,
+    "time": 458,
+    "timeDay": 11313,
+    "timeWeek": 4446,
+    "timeMonth": 1424,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2025-11-18": 110,
-      "2026-09-21": 0
+      "2026-09-21": 18
     }
   }
 ]
