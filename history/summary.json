@@ -4,23 +4,24 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.97%",
-    "time": 157,
-    "timeDay": 82,
-    "timeWeek": 179,
-    "timeMonth": 138,
-    "timeYear": 169,
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.96%",
+    "time": 159,
+    "timeDay": 353,
+    "timeWeek": 219,
+    "timeMonth": 150,
+    "timeYear": 171,
     "dailyMinutesDown": {
       "2025-12-19": 18,
       "2026-07-10": 61,
       "2026-08-18": 29,
       "2026-08-24": 23,
-      "2026-09-23": 49
+      "2026-09-23": 49,
+      "2026-09-25": 5
     }
   },
   {
@@ -37,7 +38,7 @@
     "time": 3826,
     "timeDay": 1449,
     "timeWeek": 2112,
-    "timeMonth": 3302,
+    "timeMonth": 3306,
     "timeYear": 4058,
     "dailyMinutesDown": {
       "2026-06-14": 493,
@@ -98,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/iot.procal-tech.com.ico",
     "slug": "procal-tech",
     "status": "down",
-    "uptime": "85.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.91%",
+    "uptime": "85.93%",
+    "uptimeDay": "61.91%",
+    "uptimeWeek": "92.26%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "99.80%",
     "time": 1297,
     "timeDay": 795,
     "timeWeek": 2408,
@@ -121,7 +122,7 @@
       "2026-09-08": 17,
       "2026-09-17": 31,
       "2026-09-20": 232,
-      "2026-09-25": 0
+      "2026-09-25": 548
     }
   },
   {
