@@ -100,13 +100,13 @@
     "slug": "procal-tech",
     "status": "up",
     "uptime": "86.16%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.67%",
     "time": 1299,
     "timeDay": 965,
-    "timeWeek": 966,
+    "timeWeek": 980,
     "timeMonth": 1294,
     "timeYear": 1375,
     "dailyMinutesDown": {
@@ -134,8 +134,7 @@
       "2026-10-11": 19,
       "2026-10-12": 37,
       "2026-10-16": 17,
-      "2026-10-20": 42,
-      "2026-10-28": 2
+      "2026-10-20": 42
     }
   },
   {
