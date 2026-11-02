@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 158,
     "timeDay": 116,
-    "timeWeek": 130,
+    "timeWeek": 129,
     "timeMonth": 99,
     "timeYear": 153,
     "dailyMinutesDown": {
@@ -36,8 +36,8 @@
     "uptimeYear": "99.08%",
     "time": 3741,
     "timeDay": 1060,
-    "timeWeek": 2245,
-    "timeMonth": 2433,
+    "timeWeek": 2066,
+    "timeMonth": 2462,
     "timeYear": 4064,
     "dailyMinutesDown": {
       "2026-06-14": 329,
@@ -100,14 +100,14 @@
     "slug": "procal-tech",
     "status": "up",
     "uptime": "86.19%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.67%",
     "time": 1292,
     "timeDay": 912,
-    "timeWeek": 973,
-    "timeMonth": 1257,
+    "timeWeek": 978,
+    "timeMonth": 1265,
     "timeYear": 1369,
     "dailyMinutesDown": {
       "2025-12-01": 16,
@@ -135,7 +135,7 @@
       "2026-10-12": 37,
       "2026-10-16": 17,
       "2026-10-20": 42,
-      "2026-11-01": 16
+      "2026-11-01": 15
     }
   },
   {
@@ -151,8 +151,8 @@
     "uptimeYear": "99.96%",
     "time": 357,
     "timeDay": 391,
-    "timeWeek": 649,
-    "timeMonth": 446,
+    "timeWeek": 622,
+    "timeMonth": 454,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2026-03-11": 20,
@@ -175,8 +175,8 @@
     "uptimeYear": "99.97%",
     "time": 302,
     "timeDay": 276,
-    "timeWeek": 318,
-    "timeMonth": 294,
+    "timeWeek": 320,
+    "timeMonth": 297,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2025-11-18": 110,
@@ -196,8 +196,8 @@
     "uptimeYear": "99.98%",
     "time": 456,
     "timeDay": 266,
-    "timeWeek": 419,
-    "timeMonth": 458,
+    "timeWeek": 344,
+    "timeMonth": 461,
     "timeYear": 477,
     "dailyMinutesDown": {
       "2025-11-18": 110,
