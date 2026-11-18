@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 150,
-    "timeDay": 76,
-    "timeWeek": 152,
-    "timeMonth": 115,
+    "timeDay": 88,
+    "timeWeek": 149,
+    "timeMonth": 116,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-12-19": 18,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.08%",
-    "time": 3695,
-    "timeDay": 3670,
-    "timeWeek": 2917,
-    "timeMonth": 2506,
-    "timeYear": 4057,
+    "time": 3694,
+    "timeDay": 835,
+    "timeWeek": 2891,
+    "timeMonth": 2439,
+    "timeYear": 4055,
     "dailyMinutesDown": {
       "2026-06-14": 329,
       "2026-06-15": 356,
@@ -100,14 +100,14 @@
     "slug": "procal-tech",
     "status": "up",
     "uptime": "86.29%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.67%",
     "time": 1296,
-    "timeDay": 1025,
-    "timeWeek": 1003,
-    "timeMonth": 981,
+    "timeDay": 879,
+    "timeWeek": 994,
+    "timeMonth": 975,
     "timeYear": 1342,
     "dailyMinutesDown": {
       "2025-12-01": 16,
@@ -135,8 +135,7 @@
       "2026-10-12": 37,
       "2026-10-16": 17,
       "2026-10-20": 42,
-      "2026-11-01": 15,
-      "2026-11-17": 3
+      "2026-11-01": 15
     }
   },
   {
@@ -150,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 357,
-    "timeDay": 113,
-    "timeWeek": 225,
-    "timeMonth": 415,
-    "timeYear": 372,
+    "time": 358,
+    "timeDay": 458,
+    "timeWeek": 256,
+    "timeMonth": 412,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2026-03-11": 20,
       "2026-05-10": 98,
@@ -175,12 +174,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 302,
-    "timeDay": 557,
-    "timeWeek": 328,
+    "timeDay": 296,
+    "timeWeek": 326,
     "timeMonth": 294,
-    "timeYear": 285,
+    "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-11-18": 110,
       "2026-04-09": 38
     }
   },
@@ -196,12 +194,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 455,
-    "timeDay": 696,
-    "timeWeek": 385,
-    "timeMonth": 396,
-    "timeYear": 470,
+    "timeDay": 510,
+    "timeWeek": 363,
+    "timeMonth": 409,
+    "timeYear": 471,
     "dailyMinutesDown": {
-      "2025-11-18": 110,
       "2026-09-21": 18
     }
   }
