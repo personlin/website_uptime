@@ -11,8 +11,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 161,
-    "timeDay": 62,
-    "timeWeek": 224,
+    "timeDay": 119,
+    "timeWeek": 225,
     "timeMonth": 193,
     "timeYear": 164,
     "dailyMinutesDown": {
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.08%",
-    "time": 3709,
-    "timeDay": 3487,
-    "timeWeek": 2851,
-    "timeMonth": 2293,
-    "timeYear": 4048,
+    "time": 3710,
+    "timeDay": 3570,
+    "timeWeek": 3068,
+    "timeMonth": 2336,
+    "timeYear": 4050,
     "dailyMinutesDown": {
       "2026-06-14": 329,
       "2026-06-15": 356,
@@ -101,15 +101,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/iot.procal-tech.com.ico",
     "slug": "procal-tech",
     "status": "up",
-    "uptime": "86.35%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptime": "86.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.67%",
     "time": 1297,
-    "timeDay": 958,
-    "timeWeek": 955,
-    "timeMonth": 978,
+    "timeDay": 927,
+    "timeWeek": 954,
+    "timeMonth": 977,
     "timeYear": 1337,
     "dailyMinutesDown": {
       "2025-12-01": 16,
@@ -137,8 +137,7 @@
       "2026-10-12": 37,
       "2026-10-16": 17,
       "2026-10-20": 42,
-      "2026-11-01": 15,
-      "2026-11-27": 2
+      "2026-11-01": 15
     }
   },
   {
@@ -153,9 +152,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 359,
-    "timeDay": 129,
-    "timeWeek": 279,
-    "timeMonth": 322,
+    "timeDay": 246,
+    "timeWeek": 294,
+    "timeMonth": 305,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2026-03-11": 20,
@@ -177,10 +176,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 302,
-    "timeDay": 233,
-    "timeWeek": 291,
-    "timeMonth": 302,
-    "timeYear": 287,
+    "timeDay": 284,
+    "timeWeek": 277,
+    "timeMonth": 300,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2026-04-09": 38
     }
@@ -197,10 +196,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 454,
-    "timeDay": 332,
-    "timeWeek": 270,
-    "timeMonth": 346,
-    "timeYear": 474,
+    "timeDay": 323,
+    "timeWeek": 263,
+    "timeMonth": 349,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2026-09-21": 18
     }
